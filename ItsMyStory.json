@@ -1,0 +1,588 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 33,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "It's My Story<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 580,
+      "y": 339
+    },
+    {
+      "components": [
+        {
+          "src": "https://a.tiles.mapbox.com/v4/knshetty.d3d51603/page.html?access_token=pk.eyJ1Ijoia25zaGV0dHkiLCJhIjoia29paldmayJ9.EfTf4UBJPVMnCq4JIgYyiA#4/60.22/24.67",
+          "type": "WebFrame",
+          "x": 6,
+          "y": 6,
+          "scale": {
+            "x": 0.9760416666666667,
+            "y": 0.9760416666666667,
+            "width": 937,
+            "height": 749.6
+          },
+          "selected": false,
+          "skewY": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 648,
+      "y": 381
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 7,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Degree 1",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://canadianexecutivesearch.com/wp-content/uploads/2012/09/photodune-3199625-word-cloud-information-technology-s2-e1350764003478.jpg",
+          "type": "Image",
+          "x": 363,
+          "y": 183,
+          "scale": {
+            "x": 0.7985915492957747,
+            "y": 0.7985915492957747,
+            "width": 567,
+            "height": 571.7915492957746
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 48,
+          "y": 110,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "BSc. Information &amp; Media Technology<br>",
+          "size": 55,
+          "selected": false
+        },
+        {
+          "src": "http://assets.fea.ru/uploads/fea/logos/buklet/mamk%20vari.jpg",
+          "type": "Image",
+          "x": 57,
+          "y": 183,
+          "scale": {
+            "x": 0.2447078746824725,
+            "y": 0.2447078746824725,
+            "width": 289,
+            "height": 131.40812870448772
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "markdown": "",
+      "x": 999,
+      "y": 296
+    },
+    {
+      "components": [
+        {
+          "src": "http://www.theprospect.net/wp-content/uploads/2014/05/ComputerScienceCloud.png",
+          "type": "Image",
+          "x": 47,
+          "y": 319,
+          "scale": {
+            "x": 0.566746126340882,
+            "y": 0.566746126340882,
+            "width": 950.9999999999999,
+            "height": 388.787842669845
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 1,
+          "y": 3,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Degree 2<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 47,
+          "y": 111,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "MSc. Computer Sciences<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "https://weblogin.uta.fi/media/TaY_EN_logo_RGB_35mm.jpg",
+          "type": "Image",
+          "x": 53,
+          "y": 203,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": true,
+      "active": true,
+      "markdown": "",
+      "x": 922,
+      "y": 419
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 3,
+          "y": 2,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Professional Experience <br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://www.trinitive.com/ganesh_logos/Best-Software-Development-Strategies.jpg",
+          "type": "Image",
+          "x": 13,
+          "y": 111,
+          "scale": {
+            "x": 0.44583333333333336,
+            "y": 0.44583333333333336,
+            "width": 535,
+            "height": 525.6375
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://blog.wpoven.com/wp-content/uploads/2014/10/project-management.jpg",
+          "type": "Image",
+          "x": 580,
+          "y": 113,
+          "scale": {
+            "x": 0.26125,
+            "y": 0.26125,
+            "width": 418,
+            "height": 283.97875
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://churchm.ag/wp-content/uploads/2011/04/programming-languages-thumb1.png",
+          "type": "Image",
+          "x": 54,
+          "y": 650,
+          "scale": {
+            "x": 0.10727272727272727,
+            "y": 0.10727272727272727,
+            "width": 59,
+            "height": 59
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_sharp.svg/307px-C_sharp.svg.png",
+          "type": "Image",
+          "x": 101,
+          "y": 660,
+          "scale": {
+            "x": 0.18566775244299677,
+            "y": 0.18566775244299677,
+            "width": 57.00000000000001,
+            "height": 38.99022801302932
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://www.tech-phile.com/wp-content/uploads/2013/12/Scala-logo.jpg",
+          "type": "Image",
+          "x": 404,
+          "y": 655,
+          "scale": {
+            "x": 0.25333333333333335,
+            "y": 0.25333333333333335,
+            "width": 76,
+            "height": 50.66666666666667
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://www.heptagon.com.br/images/FDD-icon.jpg",
+          "type": "Image",
+          "x": 581,
+          "y": 410,
+          "scale": {
+            "x": 0.30701754385964913,
+            "y": 0.30701754385964913,
+            "width": 70,
+            "height": 47.89473684210527
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://www.neelabettridge.com/wp-content/uploads/2014/09/pizza.png",
+          "type": "Image",
+          "x": 661,
+          "y": 409,
+          "scale": {
+            "x": 0.15360501567398124,
+            "y": 0.15360501567398124,
+            "width": 49.000000000000014,
+            "height": 49.000000000000014
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://zetcode.com/img/lang/python/pythonlogo.png",
+          "type": "Image",
+          "x": 213,
+          "y": 663,
+          "scale": {
+            "x": 0.2885906040268457,
+            "y": 0.2885906040268457,
+            "width": 43.000000000000014,
+            "height": 42.71140939597316
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "src": "http://cdn-img.easyicon.net/png/11606/1160606.gif",
+          "type": "Image",
+          "x": 156,
+          "y": 653,
+          "scale": {
+            "x": 0.4140625,
+            "y": 0.4140625,
+            "width": 53,
+            "height": 53
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "https://wplift-wplift.netdna-ssl.com/wp-content/uploads/2014/07/html-css-js.png",
+          "type": "Image",
+          "x": 305,
+          "y": 653,
+          "scale": {
+            "x": 0.155,
+            "y": 0.155,
+            "width": 93,
+            "height": 54.56
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://1.bp.blogspot.com/-wuA2Qmn3YCI/VG3nMgnmYJI/AAAAAAAAADI/04s76lemSio/s1600/20112.png",
+          "type": "Image",
+          "x": 258,
+          "y": 659,
+          "scale": {
+            "x": 0.23,
+            "y": 0.23,
+            "width": 46,
+            "height": 46
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 270,
+      "y": 289
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 7,
+          "y": 8,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Favourite Programming Languages<br>",
+          "size": 62,
+          "selected": false
+        },
+        {
+          "src": "http://coffeescript.org/documentation/images/logo.png",
+          "type": "Image",
+          "x": 91,
+          "y": 161,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_sharp.svg/307px-C_sharp.svg.png",
+          "type": "Image",
+          "x": 67,
+          "y": 392,
+          "scale": {
+            "x": 0.5928338762214983,
+            "y": 0.5928338762214983,
+            "width": 181.99999999999997,
+            "height": 124.49511400651464
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://mooccircle.com/wp-content/uploads/2014/12/python1.png",
+          "type": "Image",
+          "x": 38,
+          "y": 263,
+          "scale": {
+            "x": 0.3427620632279534,
+            "y": 0.3427620632279534,
+            "width": 411.99999999999994,
+            "height": 139.16139767054906
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://www.gravity.com/wp-content/uploads/2013/07/scala.gif",
+          "type": "Image",
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/en/thumb/8/85/Scala_logo.png/200px-Scala_logo.png",
+          "type": "Image",
+          "x": 85,
+          "y": 560,
+          "scale": {
+            "x": 1.4999999999999998,
+            "y": 1.4999999999999998,
+            "width": 299.99999999999994,
+            "height": 85.49999999999999
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 305,
+      "y": 426
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 4,
+          "y": 2,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Hobbies",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/6GSke3D.png",
+          "type": "Image",
+          "x": -118,
+          "y": 99,
+          "scale": {
+            "x": 1.2525000000000002,
+            "y": 1.2525000000000002,
+            "width": 1002.0000000000001,
+            "height": 626.2500000000001
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 579,
+      "y": 157
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "http://www.theprospect.net/wp-content/uploads/2014/05/ComputerScienceCloud.png",
+        "type": "Image",
+        "x": 47,
+        "y": 319,
+        "scale": {
+          "x": 0.566746126340882,
+          "y": 0.566746126340882,
+          "width": 950.9999999999999,
+          "height": 388.787842669845
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 1,
+        "y": 3,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "Degree 2<br>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 47,
+        "y": 111,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "MSc. Computer Sciences<br>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "src": "https://weblogin.uta.fi/media/TaY_EN_logo_RGB_35mm.jpg",
+        "type": "Image",
+        "x": 53,
+        "y": 203,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 3,
+    "selected": true,
+    "active": true,
+    "markdown": "",
+    "x": 922,
+    "y": 419
+  },
+  "fileName": "ItsMyStory",
+  "surface": "bg-surf-grad-light",
+  "deckVersion": "1.0",
+  "cannedTransition": "cards",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 634.5,
+  "overviewY": 291.5
+}
