@@ -30,7 +30,7 @@
     {
       "components": [
         {
-          "src": "https://a.tiles.mapbox.com/v4/knshetty.d3d51603/page.html?access_token=pk.eyJ1Ijoia25zaGV0dHkiLCJhIjoia29paldmayJ9.EfTf4UBJPVMnCq4JIgYyiA#4/60.22/24.67",
+          "src": "https://a.tiles.mapbox.com/v4/knshetty.d3d51603/page.html?access_token=pk.eyJ1Ijoia25zaGV0dHkiLCJhIjoia29paldmayJ9.EfTf4UBJPVMnCq4JIgYyiA#4/30.39/74.62",
           "type": "WebFrame",
           "x": 6,
           "y": 6,
@@ -390,8 +390,8 @@
         {
           "src": "http://mooccircle.com/wp-content/uploads/2014/12/python1.png",
           "type": "Image",
-          "x": 38,
-          "y": 263,
+          "x": 42.348810872027194,
+          "y": 265.6092865232163,
           "scale": {
             "x": 0.3427620632279534,
             "y": 0.3427620632279534,
@@ -402,27 +402,15 @@
           "selected": false
         },
         {
-          "src": "http://www.gravity.com/wp-content/uploads/2013/07/scala.gif",
-          "type": "Image",
-          "x": 341.3333333333333,
-          "y": 256,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "imageType": "GIF",
-          "selected": false
-        },
-        {
           "src": "http://upload.wikimedia.org/wikipedia/en/thumb/8/85/Scala_logo.png/200px-Scala_logo.png",
           "type": "Image",
-          "x": 85,
-          "y": 560,
+          "x": 90,
+          "y": 539,
           "scale": {
-            "x": 1.4999999999999998,
-            "y": 1.4999999999999998,
-            "width": 299.99999999999994,
-            "height": 85.49999999999999
+            "x": 1.55,
+            "y": 1.55,
+            "width": 310,
+            "height": 88.35000000000001
           },
           "imageType": "PNG",
           "selected": false
@@ -514,5 +502,7 @@
   "cannedTransition": "cards",
   "customBackgrounds": {
     "bgs": []
-  }
+  },
+  "overviewX": 634.5,
+  "overviewY": 291.5
 }
