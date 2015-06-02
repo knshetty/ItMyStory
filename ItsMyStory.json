@@ -22,8 +22,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 580,
       "y": 339
     },
@@ -71,20 +71,6 @@
           "selected": false
         },
         {
-          "src": "http://canadianexecutivesearch.com/wp-content/uploads/2012/09/photodune-3199625-word-cloud-information-technology-s2-e1350764003478.jpg",
-          "type": "Image",
-          "x": 363,
-          "y": 183,
-          "scale": {
-            "x": 0.7985915492957747,
-            "y": 0.7985915492957747,
-            "width": 567,
-            "height": 571.7915492957746
-          },
-          "imageType": "JPG",
-          "selected": false
-        },
-        {
           "TextBox": {},
           "x": 48,
           "y": 110,
@@ -100,15 +86,29 @@
         {
           "src": "http://assets.fea.ru/uploads/fea/logos/buklet/mamk%20vari.jpg",
           "type": "Image",
-          "x": 46,
+          "x": 50,
           "y": 172,
           "scale": {
-            "x": 0.2447078746824725,
-            "y": 0.2447078746824725,
-            "width": 289,
-            "height": 131.40812870448772
+            "x": 0.16003386960203217,
+            "y": 0.16003386960203217,
+            "width": 189,
+            "height": 85.93818797629127
           },
           "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/dCGWgYk.png",
+          "type": "Image",
+          "x": 196,
+          "y": 212,
+          "scale": {
+            "x": 0.7774647887323944,
+            "y": 0.7774647887323944,
+            "width": 828.0000000000001,
+            "height": 453.26197183098594
+          },
+          "imageType": "PNG",
           "selected": false
         }
       ],
@@ -118,8 +118,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 2,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "markdown": "",
       "x": 999,
       "y": 296
@@ -473,15 +473,56 @@
     "components": [
       {
         "TextBox": {},
-        "x": 45,
-        "y": 33,
+        "x": 7,
+        "y": 6,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "It's My Story<br>",
+        "text": "Degree 1 - 2002",
         "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 48,
+        "y": 110,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "BSc. Information &amp; Media Technology<br>",
+        "size": 55,
+        "selected": false
+      },
+      {
+        "src": "http://assets.fea.ru/uploads/fea/logos/buklet/mamk%20vari.jpg",
+        "type": "Image",
+        "x": 50,
+        "y": 172,
+        "scale": {
+          "x": 0.16003386960203217,
+          "y": 0.16003386960203217,
+          "width": 189,
+          "height": 85.93818797629127
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/dCGWgYk.png",
+        "type": "Image",
+        "x": 196,
+        "y": 212,
+        "scale": {
+          "x": 0.7774647887323944,
+          "y": 0.7774647887323944,
+          "width": 828.0000000000001,
+          "height": 453.26197183098594
+        },
+        "imageType": "PNG",
         "selected": false
       }
     ],
@@ -490,11 +531,12 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 0,
+    "index": 2,
     "selected": true,
     "active": true,
-    "x": 580,
-    "y": 339
+    "markdown": "",
+    "x": 999,
+    "y": 296
   },
   "fileName": "ItsMyStory",
   "surface": "bg-surf-grad-light",
