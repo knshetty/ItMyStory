@@ -118,28 +118,14 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 2,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "markdown": "",
       "x": 999,
       "y": 296
     },
     {
       "components": [
-        {
-          "src": "http://www.theprospect.net/wp-content/uploads/2014/05/ComputerScienceCloud.png",
-          "type": "Image",
-          "x": 47,
-          "y": 319,
-          "scale": {
-            "x": 0.566746126340882,
-            "y": 0.566746126340882,
-            "width": 950.9999999999999,
-            "height": 388.787842669845
-          },
-          "imageType": "PNG",
-          "selected": false
-        },
         {
           "TextBox": {},
           "x": 1,
@@ -172,10 +158,26 @@
           "x": 53,
           "y": 203,
           "scale": {
-            "x": 1,
-            "y": 1
+            "x": 0.513317191283293,
+            "y": 0.513317191283293,
+            "width": 212,
+            "height": 41.06537530266344
           },
           "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/z8HFIkh.png",
+          "type": "Image",
+          "x": 119,
+          "y": 249,
+          "scale": {
+            "x": 1.33781512605042,
+            "y": 1.33781512605042,
+            "width": 796,
+            "height": 500.3428571428571
+          },
+          "imageType": "PNG",
           "selected": false
         }
       ],
@@ -185,8 +187,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 3,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "markdown": "",
       "x": 922,
       "y": 419
@@ -473,54 +475,54 @@
     "components": [
       {
         "TextBox": {},
-        "x": 7,
-        "y": 6,
+        "x": 1,
+        "y": 3,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "Degree 1 - 2002",
+        "text": "Degree 2 - 2009<br>",
         "size": 72,
         "selected": false
       },
       {
         "TextBox": {},
-        "x": 48,
-        "y": 110,
+        "x": 47,
+        "y": 111,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "BSc. Information &amp; Media Technology<br>",
-        "size": 55,
+        "text": "MSc. Software Development<br>",
+        "size": 72,
         "selected": false
       },
       {
-        "src": "http://assets.fea.ru/uploads/fea/logos/buklet/mamk%20vari.jpg",
+        "src": "https://weblogin.uta.fi/media/TaY_EN_logo_RGB_35mm.jpg",
         "type": "Image",
-        "x": 50,
-        "y": 172,
+        "x": 53,
+        "y": 203,
         "scale": {
-          "x": 0.16003386960203217,
-          "y": 0.16003386960203217,
-          "width": 189,
-          "height": 85.93818797629127
+          "x": 0.513317191283293,
+          "y": 0.513317191283293,
+          "width": 212,
+          "height": 41.06537530266344
         },
         "imageType": "JPG",
         "selected": false
       },
       {
-        "src": "http://i.imgur.com/XYNIATS.png",
+        "src": "http://i.imgur.com/z8HFIkh.png",
         "type": "Image",
-        "x": 91,
-        "y": 218,
+        "x": 119,
+        "y": 249,
         "scale": {
-          "x": 0.8497512437810946,
-          "y": 0.8497512437810946,
-          "width": 854,
-          "height": 474.1611940298508
+          "x": 1.33781512605042,
+          "y": 1.33781512605042,
+          "width": 796,
+          "height": 500.3428571428571
         },
         "imageType": "PNG",
         "selected": false
@@ -531,12 +533,12 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 2,
+    "index": 3,
     "selected": true,
     "active": true,
     "markdown": "",
-    "x": 999,
-    "y": 296
+    "x": 922,
+    "y": 419
   },
   "fileName": "ItsMyStory",
   "surface": "bg-surf-grad-light",
