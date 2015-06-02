@@ -98,15 +98,15 @@
           "selected": false
         },
         {
-          "src": "http://i.imgur.com/dCGWgYk.png",
+          "src": "http://i.imgur.com/XYNIATS.png",
           "type": "Image",
-          "x": 196,
-          "y": 212,
+          "x": 91,
+          "y": 218,
           "scale": {
-            "x": 0.7774647887323944,
-            "y": 0.7774647887323944,
-            "width": 828.0000000000001,
-            "height": 453.26197183098594
+            "x": 0.8497512437810946,
+            "y": 0.8497512437810946,
+            "width": 854,
+            "height": 474.1611940298508
           },
           "imageType": "PNG",
           "selected": false
@@ -512,15 +512,15 @@
         "selected": false
       },
       {
-        "src": "http://i.imgur.com/dCGWgYk.png",
+        "src": "http://i.imgur.com/XYNIATS.png",
         "type": "Image",
-        "x": 196,
-        "y": 212,
+        "x": 91,
+        "y": 218,
         "scale": {
-          "x": 0.7774647887323944,
-          "y": 0.7774647887323944,
-          "width": 828.0000000000001,
-          "height": 453.26197183098594
+          "x": 0.8497512437810946,
+          "y": 0.8497512437810946,
+          "width": 854,
+          "height": 474.1611940298508
         },
         "imageType": "PNG",
         "selected": false
