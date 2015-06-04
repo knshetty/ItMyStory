@@ -211,8 +211,8 @@
         {
           "src": "http://www.trinitive.com/ganesh_logos/Best-Software-Development-Strategies.jpg",
           "type": "Image",
-          "x": 13,
-          "y": 111,
+          "x": 12,
+          "y": 114,
           "scale": {
             "x": 0.44583333333333336,
             "y": 0.44583333333333336,
@@ -268,13 +268,13 @@
         {
           "src": "http://www.tech-phile.com/wp-content/uploads/2013/12/Scala-logo.jpg",
           "type": "Image",
-          "x": 404,
-          "y": 655,
+          "x": 470,
+          "y": 649,
           "scale": {
-            "x": 0.25333333333333335,
-            "y": 0.25333333333333335,
-            "width": 76,
-            "height": 50.66666666666667
+            "x": 0.2900000000000001,
+            "y": 0.2900000000000001,
+            "width": 87.00000000000003,
+            "height": 58.00000000000002
           },
           "imageType": "JPG",
           "selected": false
@@ -282,13 +282,13 @@
         {
           "src": "http://zetcode.com/img/lang/python/pythonlogo.png",
           "type": "Image",
-          "x": 213,
+          "x": 205,
           "y": 663,
           "scale": {
-            "x": 0.2885906040268457,
-            "y": 0.2885906040268457,
-            "width": 43.000000000000014,
-            "height": 42.71140939597316
+            "x": 0.3355704697986578,
+            "y": 0.3355704697986578,
+            "width": 50.00000000000001,
+            "height": 49.66442953020135
           },
           "imageType": "PNG",
           "selected": false,
@@ -297,7 +297,7 @@
         {
           "src": "http://cdn-img.easyicon.net/png/11606/1160606.gif",
           "type": "Image",
-          "x": 156,
+          "x": 154,
           "y": 653,
           "scale": {
             "x": 0.4140625,
@@ -311,8 +311,8 @@
         {
           "src": "https://wplift-wplift.netdna-ssl.com/wp-content/uploads/2014/07/html-css-js.png",
           "type": "Image",
-          "x": 305,
-          "y": 653,
+          "x": 312,
+          "y": 651,
           "scale": {
             "x": 0.155,
             "y": 0.155,
@@ -335,6 +335,20 @@
           },
           "imageType": "PNG",
           "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/QcwW3KC.png",
+          "type": "Image",
+          "x": 410,
+          "y": 658,
+          "scale": {
+            "x": 0.3829787234042553,
+            "y": 0.3829787234042553,
+            "width": 54,
+            "height": 46.723404255319146
+          },
+          "imageType": "PNG",
+          "selected": false
         }
       ],
       "z": 0,
@@ -343,8 +357,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 4,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 270,
       "y": 289
     },
@@ -382,8 +396,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 5,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 305,
       "y": 426
     },
@@ -433,25 +447,155 @@
     "components": [
       {
         "TextBox": {},
-        "x": 7,
-        "y": 8,
+        "x": 3,
+        "y": 2,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "Favourite Programming Languages<br>",
-        "size": 62,
+        "text": "Professional Experience <br>",
+        "size": 72,
         "selected": false
       },
       {
-        "src": "http://i.imgur.com/k2H2Jg6.png",
+        "src": "http://www.trinitive.com/ganesh_logos/Best-Software-Development-Strategies.jpg",
         "type": "Image",
-        "x": 57,
-        "y": 132,
+        "x": 12,
+        "y": 114,
         "scale": {
-          "x": 1,
-          "y": 1
+          "x": 0.44583333333333336,
+          "y": 0.44583333333333336,
+          "width": 535,
+          "height": 525.6375
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://blog.wpoven.com/wp-content/uploads/2014/10/project-management.jpg",
+        "type": "Image",
+        "x": 580,
+        "y": 113,
+        "scale": {
+          "x": 0.26125,
+          "y": 0.26125,
+          "width": 418,
+          "height": 283.97875
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://churchm.ag/wp-content/uploads/2011/04/programming-languages-thumb1.png",
+        "type": "Image",
+        "x": 54,
+        "y": 650,
+        "scale": {
+          "x": 0.10727272727272727,
+          "y": 0.10727272727272727,
+          "width": 59,
+          "height": 59
+        },
+        "imageType": "PNG",
+        "selected": false,
+        "rotate": 0
+      },
+      {
+        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_sharp.svg/307px-C_sharp.svg.png",
+        "type": "Image",
+        "x": 101,
+        "y": 660,
+        "scale": {
+          "x": 0.18566775244299677,
+          "y": 0.18566775244299677,
+          "width": 57.00000000000001,
+          "height": 38.99022801302932
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://www.tech-phile.com/wp-content/uploads/2013/12/Scala-logo.jpg",
+        "type": "Image",
+        "x": 470,
+        "y": 649,
+        "scale": {
+          "x": 0.2900000000000001,
+          "y": 0.2900000000000001,
+          "width": 87.00000000000003,
+          "height": 58.00000000000002
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://zetcode.com/img/lang/python/pythonlogo.png",
+        "type": "Image",
+        "x": 205,
+        "y": 663,
+        "scale": {
+          "x": 0.3355704697986578,
+          "y": 0.3355704697986578,
+          "width": 50.00000000000001,
+          "height": 49.66442953020135
+        },
+        "imageType": "PNG",
+        "selected": false,
+        "skewY": 0
+      },
+      {
+        "src": "http://cdn-img.easyicon.net/png/11606/1160606.gif",
+        "type": "Image",
+        "x": 154,
+        "y": 653,
+        "scale": {
+          "x": 0.4140625,
+          "y": 0.4140625,
+          "width": 53,
+          "height": 53
+        },
+        "imageType": "GIF",
+        "selected": false
+      },
+      {
+        "src": "https://wplift-wplift.netdna-ssl.com/wp-content/uploads/2014/07/html-css-js.png",
+        "type": "Image",
+        "x": 312,
+        "y": 651,
+        "scale": {
+          "x": 0.155,
+          "y": 0.155,
+          "width": 93,
+          "height": 54.56
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://1.bp.blogspot.com/-wuA2Qmn3YCI/VG3nMgnmYJI/AAAAAAAAADI/04s76lemSio/s1600/20112.png",
+        "type": "Image",
+        "x": 258,
+        "y": 659,
+        "scale": {
+          "x": 0.23,
+          "y": 0.23,
+          "width": 46,
+          "height": 46
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/QcwW3KC.png",
+        "type": "Image",
+        "x": 410,
+        "y": 658,
+        "scale": {
+          "x": 0.3829787234042553,
+          "y": 0.3829787234042553,
+          "width": 54,
+          "height": 46.723404255319146
         },
         "imageType": "PNG",
         "selected": false
@@ -462,11 +606,11 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 5,
+    "index": 4,
     "selected": true,
     "active": true,
-    "x": 305,
-    "y": 426
+    "x": 270,
+    "y": 289
   },
   "fileName": "ItsMyStory",
   "surface": "bg-surf-grad-light",
