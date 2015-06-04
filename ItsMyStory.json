@@ -187,8 +187,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 3,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "markdown": "",
       "x": 922,
       "y": 419
@@ -364,55 +364,13 @@
           "selected": false
         },
         {
-          "src": "http://coffeescript.org/documentation/images/logo.png",
+          "src": "http://i.imgur.com/k2H2Jg6.png",
           "type": "Image",
-          "x": 91,
-          "y": 161,
+          "x": 57,
+          "y": 132,
           "scale": {
             "x": 1,
             "y": 1
-          },
-          "imageType": "PNG",
-          "selected": false
-        },
-        {
-          "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_sharp.svg/307px-C_sharp.svg.png",
-          "type": "Image",
-          "x": 67,
-          "y": 392,
-          "scale": {
-            "x": 0.5928338762214983,
-            "y": 0.5928338762214983,
-            "width": 181.99999999999997,
-            "height": 124.49511400651464
-          },
-          "imageType": "PNG",
-          "selected": false
-        },
-        {
-          "src": "http://mooccircle.com/wp-content/uploads/2014/12/python1.png",
-          "type": "Image",
-          "x": 42.348810872027194,
-          "y": 265.6092865232163,
-          "scale": {
-            "x": 0.3427620632279534,
-            "y": 0.3427620632279534,
-            "width": 411.99999999999994,
-            "height": 139.16139767054906
-          },
-          "imageType": "PNG",
-          "selected": false
-        },
-        {
-          "src": "http://upload.wikimedia.org/wikipedia/en/thumb/8/85/Scala_logo.png/200px-Scala_logo.png",
-          "type": "Image",
-          "x": 90,
-          "y": 539,
-          "scale": {
-            "x": 1.55,
-            "y": 1.55,
-            "width": 310,
-            "height": 88.35000000000001
           },
           "imageType": "PNG",
           "selected": false
@@ -424,8 +382,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 5,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 305,
       "y": 426
     },
@@ -475,54 +433,25 @@
     "components": [
       {
         "TextBox": {},
-        "x": 1,
-        "y": 3,
+        "x": 7,
+        "y": 8,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "Degree 2 - 2009<br>",
-        "size": 72,
+        "text": "Favourite Programming Languages<br>",
+        "size": 62,
         "selected": false
       },
       {
-        "TextBox": {},
-        "x": 47,
-        "y": 111,
+        "src": "http://i.imgur.com/k2H2Jg6.png",
+        "type": "Image",
+        "x": 57,
+        "y": 132,
         "scale": {
           "x": 1,
           "y": 1
-        },
-        "type": "TextBox",
-        "text": "MSc. Software Development<br>",
-        "size": 72,
-        "selected": false
-      },
-      {
-        "src": "https://weblogin.uta.fi/media/TaY_EN_logo_RGB_35mm.jpg",
-        "type": "Image",
-        "x": 53,
-        "y": 203,
-        "scale": {
-          "x": 0.513317191283293,
-          "y": 0.513317191283293,
-          "width": 212,
-          "height": 41.06537530266344
-        },
-        "imageType": "JPG",
-        "selected": false
-      },
-      {
-        "src": "http://i.imgur.com/z8HFIkh.png",
-        "type": "Image",
-        "x": 119,
-        "y": 249,
-        "scale": {
-          "x": 1.33781512605042,
-          "y": 1.33781512605042,
-          "width": 796,
-          "height": 500.3428571428571
         },
         "imageType": "PNG",
         "selected": false
@@ -533,12 +462,11 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 3,
+    "index": 5,
     "selected": true,
     "active": true,
-    "markdown": "",
-    "x": 922,
-    "y": 419
+    "x": 305,
+    "y": 426
   },
   "fileName": "ItsMyStory",
   "surface": "bg-surf-grad-light",
