@@ -25513,6 +25513,7 @@ function contains(item, list) {
 window._ = require('underscore');
 require('mapbox.js');
 require('leaflet-hash');
+var instrumentile = require('instrumentile');
 
 var template = window._.template("<link href='/v4/embed/favicon.ico' rel='shortcut icon' type='image/x-icon' />\n<link href='/v4/embed/mapbox.js/mapbox.css' type='text/css' rel='stylesheet' />\n<link href='/v4/embed/base/base.css' rel='stylesheet' />\n<link href='/v4/embed/share.css' type='text/css' rel='stylesheet' />\n<style>\nhtml, body { height:100%; }\nbody { margin:0; padding:0; }\n.ts-map { height:100%; position:absolute; top:0; left:0; right:0; bottom:0; }\n</style>\n<div class='ts-map mm zoompan share zoomwheel geocoder zoombox attribution' id='map'></div>\n<div id='share-overlay' class='round col5'>\n<a id='mapbox-logo' class='contain dark fill-darken1' href='http://mapbox.com'><span class='icon big mapbox'></span></a>\n    <div id='overlay-compressed' class='contain small animate'>\n      <div id='overlay-wrapper' class='mobile-cols wrapper contain dark fill-darken2 row1'>\n        <div id='name' class='pad1 col8 contain truncate strong'>\n          <%- tilejson.name %>\n        </div>\n        <div id='account' class='small quiet author pad1 pin-right strong'>\n          <span class='thumb dot hide-mobile inline' style='background-image:url(<%= account.avatar %>);'></span>\n          <span class='truncate inline account'><%- account.name || account.id %></span>\n        </div>\n      </div>\n      <div class='clip dropdown'>\n          <div id='desc-tray' class='quiet scroll-styled fill-light col12'></div>\n          <div id='marker-tray' class='fill-white scroll-styled col12'></div>\n      </div>\n    </div>\n</div>\n");
 document.write(template({
@@ -25534,10 +25535,12 @@ window.onload = function() {
         shareControl: true
     });
 
-    require('instrumentile')(map, {
-     api: 'https://api.tiles.mapbox.com',
-     token: 'pk.eyJ1IjoibWFwYm94IiwiYSI6InNMLWJ5VXMifQ.QC8FPLSJon_Y5uIa8b8IXQ'
-    });
+    if (/mapbox\.com/.test(window.location.hostname)) {
+        instrumentile(map, {
+         api: 'https://api.tiles.mapbox.com',
+         token: L.mapbox.accessToken
+        });
+    }
 
     map.shareControl.setPosition('bottomleft');
     map.zoomControl.setPosition('bottomleft');
@@ -25674,7 +25677,7 @@ window.onload = function() {
     function stripHTML(html) {
        var tmp = document.createElement('DIV');
        tmp.innerHTML = L.mapbox.sanitize(html);
-       return tmp.textContent || tmp.innerText || '';
+       return _.escape(tmp.textContent || tmp.innerText || '');
     }
 
     function templateMarkers(markers) {
